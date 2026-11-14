@@ -5,7 +5,7 @@
       换过的图（如去掉水印的城市背景图）永远命中旧缓存，用户反复看到旧图
    3) install时预清理所有非当前版本缓存
    HTML 仍是网络优先，保证页面更新及时；离线时统一回落缓存。 */
-const APP_VERSION = "2026.10.13n";
+const APP_VERSION = "2026.11.14_public1";
 const CACHE = "mianshi-v3-" + APP_VERSION;
 const CACHE_PREFIX = "mianshi-v3-";
 

@@ -1,0 +1,146 @@
+{
+ "us_fba.jpg": {
+  "src": "assets/maps/us_fba.jpg",
+  "caption": "美国 FBA 仓分布图",
+  "size": [
+   1100,
+   618
+  ],
+  "kb": 71
+ },
+ "uk_fba.jpg": {
+  "src": "assets/maps/uk_fba.jpg",
+  "caption": "英国 FBA 仓分布图",
+  "size": [
+   1100,
+   1462
+  ],
+  "kb": 71
+ },
+ "de_fba.jpg": {
+  "src": "assets/maps/de_fba.jpg",
+  "caption": "德国 FBA 仓分布图",
+  "size": [
+   1100,
+   1466
+  ],
+  "kb": 106
+ },
+ "fr_fba.jpg": {
+  "src": "assets/maps/fr_fba.jpg",
+  "caption": "法国 FBA 仓分布图",
+  "size": [
+   1100,
+   1466
+  ],
+  "kb": 96
+ },
+ "it_fba.jpg": {
+  "src": "assets/maps/it_fba.jpg",
+  "caption": "意大利 FBA 仓分布图",
+  "size": [
+   1100,
+   1466
+  ],
+  "kb": 80
+ },
+ "es_fba.jpg": {
+  "src": "assets/maps/es_fba.jpg",
+  "caption": "西班牙 FBA 仓分布图",
+  "size": [
+   1100,
+   1053
+  ],
+  "kb": 62
+ },
+ "pl_fba.jpg": {
+  "src": "assets/maps/pl_fba.jpg",
+  "caption": "波兰 FBA 仓分布图",
+  "size": [
+   1100,
+   1353
+  ],
+  "kb": 68
+ },
+ "jp_fba.jpg": {
+  "src": "assets/maps/jp_fba.jpg",
+  "caption": "日本 FBA 仓分布图",
+  "size": [
+   1100,
+   1462
+  ],
+  "kb": 60
+ },
+ "ca_fba.jpg": {
+  "src": "assets/maps/ca_fba.jpg",
+  "caption": "加拿大 FBA 仓分布图",
+  "size": [
+   1100,
+   937
+  ],
+  "kb": 66
+ },
+ "mx_fba.jpg": {
+  "src": "assets/maps/mx_fba.jpg",
+  "caption": "墨西哥 FBA 仓分布图",
+  "size": [
+   1100,
+   911
+  ],
+  "kb": 50
+ },
+ "europe.jpg": {
+  "src": "assets/maps/europe.jpg",
+  "caption": "欧洲地图",
+  "size": [
+   1100,
+   1006
+  ],
+  "kb": 231
+ },
+ "central_eu.jpg": {
+  "src": "assets/maps/central_eu.jpg",
+  "caption": "中欧地图",
+  "size": [
+   1100,
+   739
+  ],
+  "kb": 231
+ },
+ "sea.jpg": {
+  "src": "assets/maps/sea.jpg",
+  "caption": "东南亚地图",
+  "size": [
+   1100,
+   790
+  ],
+  "kb": 188
+ },
+ "china.jpg": {
+  "src": "assets/maps/china.jpg",
+  "caption": "中国地图",
+  "size": [
+   1100,
+   766
+  ],
+  "kb": 218
+ },
+ "asia.jpg": {
+  "src": "assets/maps/asia.jpg",
+  "caption": "亚洲地图",
+  "size": [
+   1100,
+   938
+  ],
+  "kb": 233
+ },
+ "eu_fba_all.jpg": {
+  "src": "assets/maps/eu_fba_all.jpg",
+  "caption": "欧洲主要国家 FBA 仓分布（英德法意西波）",
+  "size": [
+   1076,
+   800
+  ],
+  "kb": 67
+ }
+}
